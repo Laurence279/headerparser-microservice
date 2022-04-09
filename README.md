@@ -1,1 +1,8 @@
-# [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
+
+# Header Microservice
+
+Returns a JSON with the client's IP, accepted language, and agent.
+
+## Usage:
+
+```/api/whoami```
